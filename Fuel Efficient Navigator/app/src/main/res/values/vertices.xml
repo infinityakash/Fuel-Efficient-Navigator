@@ -1,0 +1,163 @@
+<!-- https://www.google.com/maps/dir/33.407645,-111.9614228/33.3935135,-111.9412361/@33.3941257,-111.9431494,17.39z/data=!5m1!1e1 -->
+<resources>
+	<!-- each node is an intersection -->
+    <string-array name="description">
+        <item>Broadway and Preist</item>
+		<item>23rd st and Preist</item>
+		<item>Alameda Dr and Preist</item>
+		<item>Fairmont Dr and Preist</item>
+		<item>Southern and Preist</item>
+		<item>Southern and Hardy</item>
+		<item>Fairmont Dr and Hardy</item>
+		<item>Alameda Dr and Hardy</item>
+		<item>23rd st and Hardy</item>
+		<item>22nd st and Hardy</item>
+		<item>24th st and Hardy</item>
+		<item>Broadway and Hardy</item>
+		<item>Southern and Roosevelt</item>
+		<item>Fairmont Dr and Roosevelt</item>
+		<item>Alameda Dr and Roosevelt</item>
+		<item>22nd st and Roosevelt</item>
+		<item>24th st and Roosevelt</item>
+		<item>Broadway and Roosevelt</item>
+		<item>Broadway and ind park</item>
+		<item>23rd st and ind park</item>
+		<item>Alameda and ind park</item>
+		<item>Southern and Mill</item>
+		<item>Broadway and Mill</item>
+		<item>Southern and Kyrene</item>
+		<item>Broadmor and Mill</item>
+		<item>Alameda and Mill</item>
+    </string-array>
+	<!-- unique id for each node -->
+	<string-array name="v_uuid">
+		<item>0</item>
+        <item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>20</item>
+		<item>21</item>
+		<item>22</item>
+		<item>23</item>
+		<item>24</item>
+		<item>25</item>
+    </string-array>
+	<!-- lat/lon of each intersection -->
+    <string-array name="lat_lon">
+        <item>33.407453, -111.960760</item>
+		<item>33.403695, -111.960764</item>
+		<item>33.400134, -111.960758</item>
+		<item>33.396498, -111.960763</item>
+		<item>33.392874, -111.960747</item>
+		<item>33.392857, -111.951970</item>
+		<item>33.396496, -111.952112</item>
+		<item>33.400119, -111.952130</item>
+		<item>33.403755, -111.952149</item>
+		<item>33.404637, -111.952107</item>
+		<item>33.402877, -111.952137</item>
+		<item>33.407399, -111.952161</item>
+		<item>33.392841, -111.947814</item>
+		<item>33.396480, -111.947811</item>
+		<item>33.400112, -111.947819</item>
+		<item>33.404642, -111.947842</item>
+		<item>33.402863, -111.947826</item>
+		<item>33.407393, -111.947828</item>
+		<item>33.407403, -111.955277</item>
+		<item>33.403753, -111.955261</item>
+		<item>33.400143, -111.955234</item>
+		<item>33.392883, -111.939585</item>
+		<item>33.407383, -111.939857</item>
+		<item>33.392843, -111.943641</item>
+		<item>33.402610, -111.939729</item>
+		<item>33.400164, -111.939679</item>
+    </string-array>
+	<!-- probability that you will encounter a red light -->
+	<string-array name="probability">
+        <item>0.6</item>
+		<item>0.05</item>
+		<item>0.07</item>
+		<item>0.08</item>
+		<item>0.6</item>
+		<item>0.4</item>
+		<item>0</item>
+		<item>0.02</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0.42</item>
+		<item>0.2</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0.18</item>
+		<item>0.02</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0.5</item>
+		<item>0.72</item>
+		<item>0.05</item>
+		<item>0.03</item>
+		<item>0.09</item>
+    </string-array>
+	<!-- Time, in seconds spent at a red light -->
+	<string-array name="red_delay">
+        <item>110</item>
+		<item>25</item>
+		<item>15</item>
+		<item>15</item>
+		<item>45</item>
+		<item>20</item>
+		<item>0</item>
+		<item>15</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>30</item>
+		<item>20</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>0</item>
+		<item>10</item>
+		<item>25</item>
+		<item>0</item>
+		<item>0</item>
+		<item>45</item>
+		<item>110</item>
+		<item>20</item>
+		<item>10</item>
+		<item>10</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

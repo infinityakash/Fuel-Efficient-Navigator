@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FEN</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ride_estimative">RideEstimativeActivity</string>
+    <string name="title_activity_ride_route">Map</string>
+    <string name="action_launch_gmaps">Launch on Google Maps</string>
+</resources>
